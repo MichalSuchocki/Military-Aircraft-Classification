@@ -1,0 +1,15 @@
+# PyTorch
+*.pth
+*.pt
+*.pkl
+*.log
+/.torch
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
