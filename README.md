@@ -1,2 +1,2 @@
 # Military-Aircraft-Classification
-App for military aircraft type classification.
+Simple program for military aircraft type classification.
